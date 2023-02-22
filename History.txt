@@ -1,5 +1,6 @@
 Esta es mi historia en la programacion
 
-tengo 3 meses aprendiendo en kali
+tengo 4 meses aprendiendo en kali linux
+inteligencia artificial
 
 y hoy aprenderemos git.
