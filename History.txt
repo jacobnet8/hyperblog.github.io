@@ -4,3 +4,5 @@ tengo 4 meses aprendiendo en kali linux
 inteligencia artificial
 
 y hoy aprenderemos git.
+
+No ha sido nada facil, pero es muy bueno aprender.
