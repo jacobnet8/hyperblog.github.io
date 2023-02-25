@@ -1,7 +1,9 @@
 Esta es mi historia en la programacion
 
-tengo 4 meses aprendiendo en kali linux
+Jacob tenie 4 meses aprendiendo en kali linux
 inteligencia artificial
+
+Avispita tiene 8 meses aprendiendo bases de datos
 
 y hoy aprenderemos git.
 
